@@ -2,7 +2,7 @@
 
 Welcome to **LogicToolkit** package - logician's best friend!
 
-This package was created based on Bachelor Project by Jakub Łucki and supervised by prof. dr. Rineke Verbrugge. Therefore, all important design choices can be found in the thesis itself under the following link: https://to-be-added. Of course you are more than welcome to take a look if the topic of zero-one laws interests you.
+This package was created based on Bachelor Project by Jakub Łucki and supervised by prof. dr. Rineke Verbrugge. Therefore, all important design choices can be found in the thesis itself under the following link: https://fse.studenttheses.ub.rug.nl/28131/1/Bachelor_s_thesis_with_repository.pdf. Of course you are more than welcome to take a look if the topic of zero-one laws interests you.
 
 The package uses 2 main representations of formulas: Tree and String. You can switch from one to another by using parseFormula() and formula2String().
 
